@@ -56,7 +56,7 @@ Admin coaches are able to send invitations to others who they would like to join
 
 If you are an admin coach, click on the gear icon in the team's navigation menu. Next, click "Coaches." You will be taken to the page where you can enter in the email addresses for the people you would like to invite as coaches.
 
-![image alt text]({{ site.url }}/public/siOLuZGLVPk7ubNmwLg_img_1.png)
+![image alt text](/public/siOLuZGLVPk7ubNmwLg_img_1.png)
 
 After you submit the new email address, an invitation is sent out containing instructions for how the person you invited can join your team. They will be prompted for their registration information, then taken into their professional development path.
 
